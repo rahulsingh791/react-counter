@@ -1,0 +1,21 @@
+*{
+    margin-right: 1%;
+    outline: none;
+    border: none;
+    margin-top: 1%;
+}
+
+.countText {
+    
+    
+}
+
+.dec {
+    background-color: #ED3C5E;
+    color: white;
+}
+
+.inc {
+    background-color: #61D261;
+    color: white;
+}
